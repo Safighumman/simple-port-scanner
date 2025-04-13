@@ -1,0 +1,14 @@
+=== Simple Port Scanner ===
+Enter target host (IP or domain): scanme.nmap.org
+Enter start port: 20
+Enter end port: 100
+
+Target IP: scanme.nmap.org
+Scanning ports from 20 to 100...
+
+[+] Port 22 is OPEN (ssh)
+[+] Port 80 is OPEN (http)
+[+] Port 25 is CLOSED
+[+] Port 53 is CLOSED
+
+Scan complete in 4.37 seconds.
