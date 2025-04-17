@@ -36,10 +36,10 @@ python3 port_scanner.py
 4. Enter a target host and port range when prompted.
 
 
+---
 
 
-
-📸 Example Output
+## 📸 Example Output
 
 Target IP: 8.8.8.8
 Scanning ports from 20 to 100...
@@ -50,15 +50,15 @@ Scanning ports from 20 to 100...
 [+] Port 443 is OPEN (https)
 Scan complete.
 
+---
 
-
-🛑 Disclaimer
+## 🛑 Disclaimer
 This tool is intended for educational purposes only. Only scan hosts you own or have explicit permission to analyze.
 
 
+---
 
-
-🧠 Educational Value
+## 🧠 Educational Value
 This scanner is a great starting point to:
 
 Understand TCP/IP basics
@@ -69,7 +69,7 @@ See the difference between open/closed ports
 
 Practice ethical cybersecurity habits
 
+---
 
-
-⭐ Show Support
+## ⭐ Show Support
 If you found this useful, give it a ⭐ and check out other projects on my GitHub profile.
